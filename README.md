@@ -1,3 +1,7 @@
+ORIGINAL: https://github.com/argoproj/argocd-example-apps 
+THIS IS JUST A COPY TO PRACTICE
+
+
 # ArgoCD Example Apps
 
 This repository contains example applications for demoing ArgoCD functionality. Feel free
